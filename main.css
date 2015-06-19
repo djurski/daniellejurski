@@ -11,12 +11,12 @@
 }
 
 .jumbotron {
+  height: 638px;
   background-image:url("Rural-Kansas.jpg");
+  background-position: center top;
+  background-repeat:no-repeat;
   margin-left: auto;
   margin-right: auto;
-  height: 638px;
-  background-repeat: no-repeat;
-  background-size: cover;
 }
 
 
