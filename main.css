@@ -26,7 +26,7 @@
 }
 
 .jumbotron h1 {
-  color: #000000;
+  color: #ffffff;
   font-size: 48px;  
   font-family: 'Shift', sans-serif;
   font-weight: bold;
@@ -34,11 +34,11 @@
 
 .jumbotron p {
   font-size: 20px;
-  color: #000000;
+  color: #ffffff;
 }   
 
 .learn-more {
-  background-color: #000000;
+  background-color: #ffffff;
 }
 
 .learn-more h3 {
@@ -48,5 +48,5 @@
 }
 
 .learn-more a {
-  color: #000000;
+  color: #ffffff;
 }
